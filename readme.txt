@@ -1,6 +1,6 @@
 == A reaction-diffusion model of cholinergic retinal waves==
 
-Benjamin Lansdell, Kevin Ford and J. Nathan Kutz. 2014.
+Benjamin Lansdell, Kevin Ford and J. Nathan Kutz. 2014. Made available under the GNU Public License v3.0 license -- see COPYING and license.txt for more information.
 
 Contains matlab code to run simulations of general retinal waves models on a 2D lattice. An application of this code can be found here: http://arxiv.org/abs/1404.7549
 
