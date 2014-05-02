@@ -1,6 +1,8 @@
 == A reaction-diffusion model of cholinergic retinal waves==
 
-Contains matlab code to run simulations of general retinal waves models on a 2D lattice
+Benjamin Lansdell, Kevin Ford and J. Nathan Kutz. 2014.
+
+Contains matlab code to run simulations of general retinal waves models on a 2D lattice. An application of this code can be found here: http://arxiv.org/abs/1404.7549
 
 Dependencies:
 
@@ -37,4 +39,5 @@ See also:
 
 Contact for more information:
 Ben Lansdell
+staff.washington.edu/lansdell
 lansdell@uw.edu
