@@ -2,13 +2,13 @@
 
 Benjamin Lansdell, Kevin Ford and J. Nathan Kutz. 2014. Made available under the GNU Public License v3.0 license -- see COPYING and license.txt for more information.
 
-Contains matlab code to run simulations of general retinal waves models on a 2D lattice. An application of this code can be found here: http://arxiv.org/abs/1404.7549
+Contains matlab and AUTO code to run simulations of general retinal waves models on a 2D lattice. An application of this code can be found here: http://arxiv.org/abs/1404.7549
 
 Dependencies:
 
-Developed using MATLAB 2013b.
+Developed using MATLAB 2013b, AUTO-07p.
 
-Usage:
+MATLAB Usage:
 
 start matlab in this directory. All required functions lie in ./functions and ./models and should be added to path automatically by startup.m
 
@@ -36,6 +36,9 @@ See also:
 
 	help runlongsim %Run a batch of simulations with a given parameter set
 	[The ./worksheets directory for other examples]
+
+AUTO code runs numerical continuation using subpackage homcont to compute heteroclinic orbits used to construct traveling wave fronts of retinal wave model.
+Determines excitability thresholds as a function of model parameters.
 
 Contact for more information:
 Ben Lansdell
